@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.5" name="ge.tadamia.first-wildfly-homework">
+    <resources>
+        <resource-root path="."/>
+    </resources>
+</module>
